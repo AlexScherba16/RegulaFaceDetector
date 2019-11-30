@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="face_detector_lib" targetName="face_detector_lib" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e575f9dd-d796-49fa-b4e8-35ace9db37d3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1UCaK5hr0DQdC4eKpDnSwgOZgli" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/file_searcher" />
+      <recent name="$PROJECT_DIR$/file_searcher/include" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="face_detector_lib" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="$USER_HOME$/Desktop/qweqweqwe" WORKING_DIR="file://$USER_HOME$" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e575f9dd-d796-49fa-b4e8-35ace9db37d3" name="Default Changelist" comment="" />
+      <created>1574862963729</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574862963729</updated>
+      <workItem from="1574862967242" duration="4594000" />
+      <workItem from="1574867682614" duration="1441000" />
+      <workItem from="1574869647498" duration="341000" />
+      <workItem from="1574870081920" duration="11692000" />
+      <workItem from="1574951068093" duration="2554000" />
+      <workItem from="1575042948242" duration="2704000" />
+      <workItem from="1575113363076" duration="12002000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="662" y="385" key="com.intellij.ide.util.TipDialog" timestamp="1575113362557">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="1256" y="1807" key="com.intellij.ide.util.TipDialog/640.1440.1920.1080/707.0.1853.1440@640.1440.1920.1080" timestamp="1575042949000" />
+    <state x="662" y="385" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1575113362557" />
+    <state x="270" y="243" width="1546" height="626" key="dock-window-1" timestamp="1575125756959">
+      <screen x="67" y="0" width="1853" height="2160" />
+    </state>
+    <state x="270" y="243" width="1546" height="626" key="dock-window-1/67.0.1853.2160@67.0.1853.2160" timestamp="1575125756959" />
+  </component>
+</project>
